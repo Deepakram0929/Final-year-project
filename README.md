@@ -23,11 +23,5 @@ No real time implementations done
 
 ![image](https://github.com/user-attachments/assets/8979f7c8-b5f5-457c-9a65-f2d110bdad34)
 PROPOSED METHODOLOGY:
-Step 1: Raw data and Weather Statistics
-Step 2: Extract and Segment Data (Data Preprocessing)
-Step 3: Train Data
-Step 4: Unsupervised Learning Algorithms
-Step 5: Cropping Patterns
-Step 6: Location and Year Based 
-Step 7: Visual Representation
+
 ![image](https://github.com/user-attachments/assets/5c0622d6-403b-4a2a-84ec-dce70b715b9a)
