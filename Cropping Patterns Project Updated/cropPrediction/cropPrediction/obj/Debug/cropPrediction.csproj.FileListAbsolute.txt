@@ -1,0 +1,146 @@
+D:\Academic 2015-2016\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2015-2016\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2015-2016\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2015-2016\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2015-2016\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2016-2017\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2016-2017\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2016-2017\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2016-2017\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2016-2017\Major Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2016-2017\Projects\Crop Prediction\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2016-2017\Projects\Crop Prediction\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2016-2017\Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2016-2017\Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2016-2017\Projects\Crop Prediction\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\win7\Desktop\Crop Prediction_Roshini Patial\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+C:\Users\win7\Desktop\Crop Prediction_Roshini Patial\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+C:\Users\win7\Desktop\Crop Prediction_Roshini Patial\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Crop Prediction_Roshini Patial\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+C:\Users\win7\Desktop\Crop Prediction_Roshini Patial\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\win7\Desktop\Crop Prediction_Roshini Final Copy\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+C:\Users\win7\Desktop\Crop Prediction_Roshini Final Copy\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+C:\Users\win7\Desktop\Crop Prediction_Roshini Final Copy\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Crop Prediction_Roshini Final Copy\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+C:\Users\win7\Desktop\Crop Prediction_Roshini Final Copy\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\Indian\Desktop\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+C:\Users\Indian\Desktop\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+C:\Users\Indian\Desktop\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+C:\Users\Indian\Desktop\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+F:\My weapons\6th sem notes\crop prediction\Crop Prediction Project\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+F:\My weapons\6th sem notes\crop prediction\Crop Prediction Project\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+F:\My weapons\6th sem notes\crop prediction\Crop Prediction Project\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+F:\My weapons\6th sem notes\crop prediction\Crop Prediction Project\Crop Prediction_Final Copy\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+F:\cropPrediction\cropPrediction\bin\cropPrediction.dll
+F:\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+F:\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+F:\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+F:\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\win7\Desktop\NagaShruthi Crop\cropPrediction\cropPrediction\bin\cropPrediction.dll
+C:\Users\win7\Desktop\NagaShruthi Crop\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+C:\Users\win7\Desktop\NagaShruthi Crop\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\NagaShruthi Crop\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+C:\Users\win7\Desktop\NagaShruthi Crop\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Crop Prediction\Project\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Crop Prediction\Project\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Crop Prediction\Project\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Crop Prediction\Project\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Crop Prediction\Project\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Madhushree\Project\cropPrediction\cropPrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Madhushree\Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Madhushree\Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Madhushree\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2017-2018\IEEE Papers\Rice Yield Prediction using DataMining Technique\Project\Madhushree\Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\win7\Desktop\Projects\Rice Yield\Others\Final Copy\cropPrediction\cropPrediction\bin\cropPrediction.dll
+C:\Users\win7\Desktop\Projects\Rice Yield\Others\Final Copy\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+C:\Users\win7\Desktop\Projects\Rice Yield\Others\Final Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+C:\Users\win7\Desktop\Projects\Rice Yield\Others\Final Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\win7\Desktop\Projects\Rice Yield\Others\Final Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Project Copy\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Project Copy\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Crop Recc Naive Bayes ExcelSheet Import Final\Project Copy\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Crop Recc Naive Bayes ExcelSheet Import Final\Project Copy\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Crop Recc Naive Bayes ExcelSheet Import Final\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2018-2019\Projects\Crop Cultivation\Others\Crop Recc Naive Bayes ExcelSheet Import Final\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Project Copy\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Project Copy\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Project Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Chandana Final Copy\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Chandana Final Copy\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Chandana Final Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Chandana Final Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2019-2020\Projects\AIT\Crop Prediction\Chandana Final Copy\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\PES\Crop Recc and Fertilizer Recc\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2020-2021\Projects\PES\Crop Recc and Fertilizer Recc\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2020-2021\Projects\PES\Crop Recc and Fertilizer Recc\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\PES\Crop Recc and Fertilizer Recc\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2020-2021\Projects\PES\Crop Recc and Fertilizer Recc\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Agriculture Advisory\Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\VVCE\Agriculture Advisory Project\Anusha Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\VVCE\Agriculture Advisory Project\Anusha Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\VVCE\Agriculture Advisory Project\Anusha Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\VVCE\Agriculture Advisory Project\Anusha Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\VVCE\Agriculture Advisory Project\Anusha Crop Recc and Fertilizer Recc FINAL\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\Projects\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2023-2024\PROJECTS\BE\VVCE\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\ATME\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\ATME\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\ATME\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\ATME\Cropping Patterns Project\Cropping Patterns Project NB ECLAT FINAL\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project Updated\cropPrediction\cropPrediction\bin\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project Updated\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project Updated\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+D:\Academic 2024-2025\PROJECTS\MYCEM\Cropping Patterns Project Updated\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
+C:\Users\Deepak\Desktop\Cropping Patterns Project Updated\Cropping Patterns Project Updated\cropPrediction\cropPrediction\bin\cropPrediction.dll
+C:\Users\Deepak\Desktop\Cropping Patterns Project Updated\Cropping Patterns Project Updated\cropPrediction\cropPrediction\bin\cropPrediction.pdb
+C:\Users\Deepak\Desktop\Cropping Patterns Project Updated\Cropping Patterns Project Updated\cropPrediction\cropPrediction\obj\Debug\cropPrediction.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\Desktop\Cropping Patterns Project Updated\Cropping Patterns Project Updated\cropPrediction\cropPrediction\obj\Debug\cropPrediction.dll
+C:\Users\Deepak\Desktop\Cropping Patterns Project Updated\Cropping Patterns Project Updated\cropPrediction\cropPrediction\obj\Debug\cropPrediction.pdb
